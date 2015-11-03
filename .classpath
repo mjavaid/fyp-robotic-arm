@@ -3,5 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="D:/RobotArm/DEVELOPMENT/Fazecast-jSerialComm-ec0acd7/jSerialComm-1.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jre1.8.0_60/lib/ext/RXTXcomm.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
